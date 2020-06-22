@@ -5,7 +5,9 @@
 }
 
 body {
+  width: 100%;
   font-size: 14px;
+  background-color: #353438;
 }
 
 div {
@@ -16,6 +18,8 @@ div {
 div li {
   display: flex;
   align-items: center;
+  color: #fff;
+  font-weight: bold;
 }
 
 div li + li {
